@@ -1,0 +1,7 @@
+1	President
+2	Warehouse Manager
+3	Administrative Assistant
+4	Accountant
+5	Warehouse Assistant
+6	Loading Worker
+7	Information Systems Specialist

@@ -1,0 +1,4 @@
+Wrh_ID,Wrh_Address,Wrh_city,Wrh_state,Wrh_ZIP,Wrh_phone,Wrh_climate_controlled,Wrh_secutiy_gate
+OR-1,1897 Gary Ave,Portland,OR,97215,(509) 324-8213,Yes,No
+WA-1,5976 14th Ave NW,Jackson Hole,WY,83003,(503) 798-5646,Yes,Yes
+WY-1,375 56th St,Spokane,WA,99203,(509) 857-2465,No,Yes
